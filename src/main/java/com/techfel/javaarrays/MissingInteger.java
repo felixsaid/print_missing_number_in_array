@@ -14,6 +14,7 @@ import java.util.Scanner;
 public class MissingInteger {
     public static void main(String[] args) {
       Scanner sc = new Scanner(System.in);
+      
       System.out.println("Enter the n value: ");
       int n = sc.nextInt();
       int inpuArray[] = new int[n];

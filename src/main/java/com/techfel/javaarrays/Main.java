@@ -7,7 +7,7 @@ package com.techfel.javaarrays;
 
 /**
  *
- * @author kiamb
+ * @author kiamba felix
  */
 public class Main {
     
